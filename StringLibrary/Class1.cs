@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UtilityLibraries 
+namespace UtilityLibraries
 {
     public static class StringLibrary
     {
